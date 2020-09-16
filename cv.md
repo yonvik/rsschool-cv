@@ -1,4 +1,4 @@
-1. Andrey Yankovsiy.
+1. Andrey Yankovskiy.
 2. Contacs:
     1. YoNvik#3566
     2. [VK](https://vk.com/yonvik) 
