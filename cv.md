@@ -1,4 +1,4 @@
-1. Andrey Yankovsiy.
+1. Andrey Yankovskiy.
 2. Contacs:
     1. YoNvik#3566
     2. [VK](https://vk.com/yonvik) 
@@ -9,8 +9,8 @@
     2. JS - basic;
     3. CSS - basik.
         
-5.  I do not have
+5.  I do not have.
 
 6. I made a project from Yandex.Practicum free course about site layout.
 7. Higher education. Management department. Specialty - management of organizations.
-8. A2. At the moment, I am actively studying English, taking individual lessons with a teacher twice a week, and also taking online lessons on my own. I am focused on understanding the fundamentals of the language, being able to quickly read highly specialized literature and write in English
+8. A2. At the moment, I am actively studying English, taking individual lessons with a teacher twice a week, and also taking online lessons on my own. I am focused on understanding the fundamentals of the language, being able to quickly read highly specialized literature and write in English.
